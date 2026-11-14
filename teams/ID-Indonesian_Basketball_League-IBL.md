@@ -34,7 +34,7 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - [YouTube](https://www.youtube.com/@HornbillsTV)
 - [Instagram](https://www.instagram.com/hornbills/)
 - [TikTok](https://www.tiktok.com/@borneohornbills)
-- Threads: No account
+- [Threads](https://www.threads.net/@hornbills)
 - X: No account
 - Facebook: No account
 
@@ -46,9 +46,9 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - [Website News](https://dewaunited.com/basketball/news)
 - [YouTube](https://www.youtube.com/@AnakDewaBasketball)
 - [Instagram](https://www.instagram.com/dewautdbc/)
-- TikTok: No account
-- Threads: No account
-- X: No account
+- [TikTok](https://www.tiktok.com/@dewautdbc)
+- [Threads](https://www.threads.com/@dewautdbc)
+- [X](https://x.com/dewautdbc)
 - Facebook: No account
 
 [↑ Back to ToC](#table-of-contents)
@@ -62,7 +62,7 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - [TikTok](https://www.tiktok.com/@hangtuah.id)
 - Threads: No account
 - X: No account
-- Facebook: No account
+- [Facebook](https://www.facebook.com/amarthahangtuah)
 
 [↑ Back to ToC](#table-of-contents)
 
@@ -72,10 +72,10 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - Website News: No landing webpage
 - [YouTube](https://www.youtube.com/@KESATRIABENGAWANSOLO)
 - [Instagram](https://www.instagram.com/kesatriabengawansolo/)
-- TikTok: No account
-- Threads: No account
-- X: No account
-- Facebook: No account
+- [TikTok](https://www.tiktok.com/@kesatriabengawansolo)
+- [Threads](https://www.threads.net/@kesatriabengawansolo)
+- [X](https://x.com/KesatriaSolo)
+- [Facebook](https://facebook.com/people/Kesatria-Bengawan-Solo/61554229942912/)
 
 [↑ Back to ToC](#table-of-contents)
 
@@ -86,9 +86,9 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - [YouTube](https://www.youtube.com/@PacificCaesarSurabaya)
 - [Instagram](https://www.instagram.com/pacific.caesar/)
 - TikTok: No account
-- Threads: No account
+- [Threads](https://www.threads.net/@pacific.caesar)
 - X: No account
-- Facebook: No account
+- [Facebook](https://www.facebook.com/pacificcaesar1968)
 
 [↑ Back to ToC](#table-of-contents)
 
@@ -98,9 +98,9 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - Website News: No landing webpage
 - [YouTube](https://www.youtube.com/@PelitaJayaBasketball)
 - [Instagram](https://www.instagram.com/pelitajayabasketball/)
-- TikTok: No account
-- Threads: No account
-- X: No account
+- [TikTok](https://www.tiktok.com/@pelitajayabasketball)
+- [Threads](https://www.threads.net/@pelitajayabasketball)
+- [X](https://x.com/pelitajaya1987)
 - Facebook: No account
 
 [↑ Back to ToC](#table-of-contents)
@@ -124,10 +124,10 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - Website News: No landing webpage
 - [YouTube](https://www.youtube.com/@RANSBASKETBALL)
 - [Instagram](https://www.instagram.com/rans.simba.basketball/)
-- TikTok: No account
-- Threads: No account
+- [TikTok](https://www.tiktok.com/@rans.simba.basketball)
+- [Threads](https://www.threads.net/@rans.simba.basketball)
 - X: No account
-- Facebook: No account
+- [Facebook](https://www.facebook.com/rans.simba.basketball)
 
 [↑ Back to ToC](#table-of-contents)
 
@@ -138,7 +138,7 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - [YouTube](https://www.youtube.com/@SatriaMudaID)
 - [Instagram](https://www.instagram.com/satriamuda.id/)
 - [TikTok](https://www.tiktok.com/@satriamuda.id)
-- Threads: No account
+- [Threads](https://www.threads.net/@satriamuda.id)
 - [X](https://x.com/SatriaMudaIDN)
 - [Facebook](https://www.facebook.com/SMPertamina/)
 
@@ -152,7 +152,7 @@ This file lists the teams in the Indonesia Indonesian Basketball League. This di
 - [Instagram](https://www.instagram.com/thesaints.salatiga/)
 - TikTok: No account
 - Threads: No account
-- X: No account
+- [X](https://x.com/thesaints_sala3)
 - Facebook: No account
 
 [↑ Back to ToC](#table-of-contents)
